@@ -158,8 +158,6 @@ twisted-iocpsupport==1.0.2
 typing_extensions==4.3.0
 tzdata==2023.3
 uritemplate==4.1.1
-urllib3==1.26.7
-w3lib==2.1.1
 wcwidth==0.2.5
 webdriver-manager==3.8.5
 webencodings==0.5.1
